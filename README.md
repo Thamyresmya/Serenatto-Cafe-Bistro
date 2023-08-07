@@ -58,16 +58,16 @@ O Bootstrap tem a funcionalidade de breakpoints, ou pontos de quebra, eles são 
 ## 📸 Gif
 
 Tela principal <br>
-<img width="70%" height="400" src="./geral/img/Tela-principal.png"></img>
+<img width="100%" height="400" src="./geral/img/Tela-principal.png"></img>
 
 Tela principal - modo noturno <br>
-<img width="70%" height="400" src="./geral/img/Modo-noturno.png"></img>
+<img width="100%" height="400" src="./geral/img/Modo-noturno.png"></img>
 
 Elemento modal <br>
-<img width="70%" height="400" src="./geral/img/modal.png"></img>
+<img width="100%" height="400" src="./geral/img/modal.png"></img>
 
 Elemento Off-canvas e Accordion <br>
-<img width="70%" height="400" src="./geral/img/accordion.png"></img>
+<img width="100%" height="400" src="./geral/img/accordion.png"></img>
 
 
 <br>
