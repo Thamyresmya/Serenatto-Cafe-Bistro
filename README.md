@@ -4,7 +4,7 @@
 | -------------  | --- |
 | :sparkles: Nome        | **Projeto Cafeteria Serenatto utilizando Bootstrap**
 | :label: Tecnologias | HTML, CSS, Bootstrap5
-| :rocket: URL         | https://thamyresmya.github.io
+| :rocket: URL         | https://thamyresmya.github.io/Serenatto-Cafe-Bistro/
 
 <br>
 
@@ -38,7 +38,7 @@ Projeto de uma cafeteria Serenatto fictícia utilizando Bootstrap na versão 5, 
 
 ## 📁 Acesso ao projeto
 
-É possível acessar o projeto através do [Link](https://github.com/Thamyresmya)
+É possível acessar o projeto através do [Link](https://github.com/Thamyresmya/Serenatto-Cafe-Bistro)
 
 <br>
 
