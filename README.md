@@ -48,6 +48,7 @@ O Bootstrap tem a funcionalidade de breakpoints, ou pontos de quebra, eles são 
 
 <img width="100%" height="300" src="./geral/img/Breakpoints no Bootstrap.png"></img>
 
+<img width="100%" height="450" src="./geral/img/Breakpoints.gif"></img>
 
 <video width="100%" height="340" controls>
   <source src="./geral/img/Breakpoints.mp4" type="video/mp4">
@@ -56,6 +57,8 @@ O Bootstrap tem a funcionalidade de breakpoints, ou pontos de quebra, eles são 
 <br>
 
 ## 🛠️ Funcionalidade do projeto
+
+<img width="100%" height="450" src="./geral/img/Serenatto.gif"></img>
 
 <video width="100%" height="450" controls>
   <source src="./geral/img/Serenatto.mp4" type="video/mp4">
